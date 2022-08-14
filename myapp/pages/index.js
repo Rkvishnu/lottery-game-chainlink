@@ -304,7 +304,7 @@ export default function Home() {
     <div>
       <Head>
         <title>Lottery_Game</title>
-        <meta name="description" content="LW3Punks-Dapp" />
+        <meta name="description" content="LotteryGame-Dapp" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className={styles.main}>
